@@ -28,10 +28,12 @@ TRAFFINTEL is an Android app that uses **YOLOv8 + TensorFlow Lite** to detect tr
 🚀 **How It Works**
 
 1. Open the app on your Android device.  
-2. Grant camera permissions when prompted.  
-3. Start real-time detection – the app identifies traffic signs on the camera feed.  
-4. The detected sign is displayed on screen with a **driving recommendation**.  
-5. A **voice alert** is also provided for hands-free assistance.  
+2. Grant camera permissions when prompted.
+3. The a navidation bar at bottom with home , realtime and image screens . (Note : The active screen with be highlighted in yellow in navbar)
+4. Start real-time detection – the app identifies traffic signs on the camera feed. (Note :Gpu toggle button when in orange means active and in grey means not active)  
+5. The detected sign is displayed on screen with a **driving recommendation**.  
+6. A **voice alert** is also provided for hands-free assistance.
+7. Image detection Screen Click The select image button to pic sign for information.Then tap the results button for information.  
 
 ---
 
@@ -53,5 +55,6 @@ TRAFFINTEL is an Android app that uses **YOLOv8 + TensorFlow Lite** to detect tr
 👨‍💻 **Author**
 
 Developed by [Omkarkinlekar](https://github.com/omkarkinlekar)  
+
 
 
