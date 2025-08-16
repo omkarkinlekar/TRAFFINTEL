@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="default_icon_color">#888888</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="bounding_box_color">#234567</color>
+    <color name="gray">#999</color>
+    <color name="orange">#F93</color>
+    <color name="transparent">#00000000</color>  <!-- Transparent background -->
+    <color name="yellow">#FFFF00</color>  <!-- Yellow color -->
+    </resources>

@@ -1,0 +1,5 @@
+<resources>
+    <string name="gpu">GPU</string>
+    <string name="authors_text"><b>AUTHORS</b>\nGURUDATTA ALIAS OMKAR KISHOR KINLEKAR\nVISHAL VITTAL KUMBHAR\nADITYA SAMARBAHADUR YADAV\nBASIL ROMI JOSE\nSWETA KAMAT</string>
+    <string name="appInfo_text"><b>APP INFORMATION</b>\nMODEL: YOLOV8 + AUGMENTATION\nDATASET SIZE(CUSTOM): 4535 IMAGES\nFRONTEND: KOTLIN</string>
+</resources>
