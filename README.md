@@ -1,31 +1,73 @@
-# TRAFFINTEL
+# 🚦 TRAFFINTEL – Real-Time Traffic Sign Detection App
 
-**Real-Time Traffic Sign Detection & Recommendation**
-
-A mobile app built with Kotlin that detects traffic signs in real time using TensorFlow Lite and YOLOv8, and provides smart driving recommendations through an intuitive UI.
+TRAFFINTEL is an Android app that uses **YOLOv8 + TensorFlow Lite** to detect traffic signs in real time and provide driving recommendations. It runs completely **offline** on-device, offering smooth performance with a clean, modern UI.
 
 ---
 
-##  Features
+✨ **Features**
 
--  **Real-Time Detection**: Uses YOLOv8-TFLite model to recognize traffic signs live.
--  **File Support**: Can process `.tflite`, `.aab`, `.apks`, even `.zip` files containing models or assets.
--  **Intuitive UI**: Clean, user-friendly interface for easy interaction.
--  **Offline Capability**: Runs natively on-device using TFLite—no internet required.
--  **Git LFS Integration**: Handles large assets efficiently (e.g., models, APKs).
+- 📸 Real-time traffic sign detection using YOLOv8-TFLite  
+- 🎙️ Voice + text recommendations based on detected signs  
+- ⚡ Works fully offline (no internet needed)  
+- 📱 Runs at ~30 FPS on supported devices  
+- 🖼️ Clean and responsive Material Design UI  
+- 🔔 Edge-to-edge layout support with smooth interactions  
 
 ---
 
-##  Getting Started
+🛠 **Tech Stack**
 
-### Prerequisites
+- **Language**: Kotlin  
+- **Framework**: Android SDK + Jetpack Components  
+- **ML Model**: YOLOv8 (TensorFlow Lite, Float32)  
+- **UI**: Jetpack Compose + Material 3  
+- **Voice Alerts**: Android TextToSpeech (TTS) API  
 
-- Android Studio Bumblebee or newer
-- Android SDK with minimum API Level _XX_
-- Java JDK 11+
-- Git LFS installed (for handling model and asset files)
+---
 
-Install Git LFS if needed:
+🚀 **How It Works**
 
-```bash
-git lfs install
+1. Open the app on your Android device.  
+2. Grant camera permissions when prompted.  
+3. Start real-time detection – the app identifies traffic signs on the camera feed.  
+4. The detected sign is displayed on screen with a **driving recommendation**.  
+5. A **voice alert** is also provided for hands-free assistance.  
+
+---
+
+📸 **Screenshots**
+
+<table>
+  <tr>
+    <td align="center"><b>HOME SCREEN</b></td>
+    <td align="center"><b>DETECTION SCREEN</b></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="screenshots/home.jpg" alt="Home Screen" width="300"></td>
+    <td align="center"><img src="screenshots/detection.jpg" alt="Detection Screen" width="300"></td>
+  </tr>
+</table>
+
+*(Replace `screenshots/home.jpg` and `screenshots/detection.jpg` with your actual image paths in the repo.)*
+
+---
+
+🤝 **Contribution**
+
+Contributions are welcome!  
+- Fork the repo  
+- Create a new branch (`feature/your-feature`)  
+- Commit your changes  
+- Open a Pull Request  
+
+---
+
+📜 **License**
+
+This project is licensed under the [MIT License](LICENSE).  
+
+---
+
+👨‍💻 **Author**
+
+Developed by [Omkarkinlekar](https://github.com/omkarkinlekar)  
