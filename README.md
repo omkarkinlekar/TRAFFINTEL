@@ -52,22 +52,7 @@ TRAFFINTEL is an Android app that uses **YOLOv8 + TensorFlow Lite** to detect tr
 
 ---
 
-🤝 **Contribution**
-
-Contributions are welcome!  
-- Fork the repo  
-- Create a new branch (`feature/your-feature`)  
-- Commit your changes  
-- Open a Pull Request  
-
----
-
-📜 **License**
-
-This project is licensed under the [MIT License](LICENSE).  
-
----
-
 👨‍💻 **Author**
 
 Developed by [Omkarkinlekar](https://github.com/omkarkinlekar)  
+
