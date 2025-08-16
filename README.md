@@ -46,8 +46,9 @@ TRAFFINTEL is an Android app that uses **YOLOv8 + TensorFlow Lite** to detect tr
     <td align="center"><b>IIMAGE DETECTION SCREEN</b></td>
   </tr>
   <tr>
-    <td align="center"><img src="screenshots/home.jpg" alt="Home Screen" width="300"></td>
-    <td align="center"><img src="screenshots/detection.jpg" alt="Detection Screen" width="300"></td>
+    <td align="center"><img src="screenshots/home.jpg" width="300"></td>
+    <td align="center"><img src="screenshots/detection.jpg" width="300"></td>
+    <td align="center"><img src="screenshots/detection.jpg" width="300"></td>
   </tr>
 </table>
 
@@ -56,6 +57,7 @@ TRAFFINTEL is an Android app that uses **YOLOv8 + TensorFlow Lite** to detect tr
 👨‍💻 **Author**
 
 Developed by [Omkarkinlekar](https://github.com/omkarkinlekar)  
+
 
 
 
